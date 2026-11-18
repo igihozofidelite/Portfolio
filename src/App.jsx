@@ -77,7 +77,7 @@ function Hero() {
     >
       <div className="md:w-3/5">
         <p className="text-purple-400 font-semibold mb-3">
-          ASPIRING SOFTWARE DEVELOPER
+          ASPIRING SOFTWARE DEVELOPER AND DESIGNER
         </p>
 
         <h1 className="text-4xl md:text-6xl font-bold text-white leading-tight">
@@ -86,7 +86,7 @@ function Hero() {
         </h1>
 
         <p className="text-gray-400 mt-6 leading-7">
-          I am an aspiring software developer from Kigali, Rwanda.
+          I am an aspiring software developer and designer from Kigali, Rwanda.
           I enjoy designing websites, learning new technologies,
           and creating useful digital solutions.
         </p>
@@ -135,10 +135,10 @@ function About() {
         </h2>
 
         <p className="text-gray-400 leading-8 text-center">
-          My name is IGIHOZO Fidelite. I am learning software development
+          My name is IGIHOZO Fidelite. I am learning software development, designing
           and improving my skills through practical projects. I am interested
           in technology, creativity, and solving real-world problems.
-          My goal is to become a skilled software developer who creates
+          My goal is to become a skilled software developer and designer who creates
           reliable and user-friendly applications.
         </p>
       </div>
